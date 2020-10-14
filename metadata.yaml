@@ -1,0 +1,28 @@
+_repo: Den-ljusa-skalpen-Nya-prariehistorier_63403
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Strömberg, Sigge
+    aliases:
+    - Strömberg, Sigfrid Natanael
+    - Stromberg, Sigge
+    birthdate: 1885
+    deathdate: 1920
+    gutenberg_agent_id: '4234'
+    url: http://www.gutenberg.org/2009/agents/4234
+    wikipedia: http://sv.wikipedia.org/wiki/Sigge_Str%C3%B6mberg
+description: ''
+gutenberg_issued: '2020-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63403'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Den ljusa skalpen
+
+  Nya präriehistorier'
+url: http://www.gutenberg.org/ebooks/63403
